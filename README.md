@@ -1,6 +1,6 @@
 ## React：台灣即時天氣查詢 App
 一個結合 React 前端開發技術、串接中央氣象局 API 的台灣即時天氣查詢系統，除了能夠立即查詢各縣市天氣狀況，也提供溫度、降雨量、風速及天氣描述等詳細資料以供用戶參考。
-- [Demo](https://sophiebetough.github.io/weather-in-taiwan-app/)
+- [Demo](https://sophiebetough.github.io/weather-in-taiwan-pwa/)
 - [中央氣象局 API](https://opendata.cwb.gov.tw/dist/opendata-swagger.html#/)
 
 ![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/main/public/main-demo.gif)
