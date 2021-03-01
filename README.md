@@ -3,7 +3,7 @@
 - [Demo](https://sophiebetough.github.io/weather-in-taiwan-app/)
 - [中央氣象局 API](https://opendata.cwb.gov.tw/dist/opendata-swagger.html#/)
 
-![image](放上照片)
+![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/main/public/main-demo.gif)
 
 ### 核心功能
 - 天氣查詢功能，即時顯示溫度、天氣描述、降雨量及風速等數據。
@@ -13,7 +13,11 @@
 - 保存用戶偏好設定的地區資訊功能，也設置 `localStorage` 資料的時效時間。
 - 網頁可下載到手機裝置，作為 Web App 安裝在手機上。
 
-![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/170a9a8dfa97debf83ec395bad670d9ad920ae74/public/dark-mode-demo.png)
+![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/main/public/dark-mode-demo.png)
+
+![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/main/public/select-demo.png)
+
+![image](https://github.com/sophiebetough/weather-in-taiwan-pwa/blob/main/public/pwa-demo.png)
 
 ### 使用技術
 - 以 React 搭配中央氣象局 API 資料，建立台灣即時天氣查詢系統。
@@ -21,7 +25,7 @@
 - 使用 function component 及 hooks 管理狀態。
 - 啟用 PWA 功能，將網頁變成手機 Web App。
 - 安裝 normalize.css，重置各瀏覽器使基本樣式一致。
-- 套用 dayjs 處理處理跨瀏覽器時間問題。
+- 套用 dayjs 處理跨瀏覽器時間問題。
 - 導入 Prettier、ESLint 統一程式碼格式及檢查語法。
 
 ### 專案結構
