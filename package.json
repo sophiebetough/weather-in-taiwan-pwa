@@ -22,7 +22,7 @@
     "workbox-range-requests": "^5.1.3",
     "workbox-streams": "^5.1.3"
   },
-  "homepage": "https://myusername.github.io/weather-in-taiwan-pwa",
+  "homepage": "https://sophiebetough.github.io/weather-in-taiwan-pwa",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
